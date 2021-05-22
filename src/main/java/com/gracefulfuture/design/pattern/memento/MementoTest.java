@@ -1,5 +1,8 @@
 package com.gracefulfuture.design.pattern.memento;
 
+import java.util.ArrayList;
+import java.util.List;
+
 /**
 * @description      备忘录模式测试
 * @author           chenkun
